@@ -1,5 +1,5 @@
 
-# Face-expression-recognition-system
+# Facial-expression-recogniser
 
 clone the repo and run the face_emotion1.py file 
 
