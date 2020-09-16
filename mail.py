@@ -13,10 +13,10 @@ import sys
 
 
 def call():
-    gmail_user = "girish261998@gmail.com"
-    gmail_pwd = "Gk261998!!c"
-    FROM = 'girish261998@gmail.com'
-    TO = ['spidygirish@gmail.com']  # must be a list
+    gmail_user = "sender_mail"
+    gmail_pwd = "sender_pwd"
+    FROM = 'sender_mail'
+    TO = ['receiver_mail']  # must be a list
 
     # IMAGE
 
